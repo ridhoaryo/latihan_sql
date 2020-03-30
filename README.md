@@ -1,6 +1,4 @@
-# Soal Ujian Data Science - Analytics & Visualization
-
-![Lintang_Purwadhika](https://static.wixstatic.com/media/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png/v1/fill/w_246,h_39,al_c,usm_0.66_1.00_0.01/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png)
+![Soal](https://static.wixstatic.com/media/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png/v1/fill/w_246,h_39,al_c,usm_0.66_1.00_0.01/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png)
 
 #
 
@@ -170,71 +168,3 @@ MySQL secara default menyertakan database ```sakila``` yang dapat digunakan oleh
     | TRAIN BUNCH        | Horror   |
     +--------------------+----------+
     ```
-
-    ✅ _Lampirkan jawaban berupa daftar query MySQL dalam bentuk file __.txt__ (atau format text file lainnya) dan kirimkan via email ke _lintang@purwadhika.com_!_
-
-#
-
-### **Soal 2 - 👨‍🎓 Kerja Kerja Kerja**
-
-Disediakan sebuah dataset yang berisi daftar profesi beberapa responder, unduh: [profesi.csv](https://raw.githubusercontent.com/LintangWisesa/Ujian_AnalyticsVisualization_JCDS07/master/profesi.csv). Buatlah sebuah file python (__.py__) atau notebook (__.ipynb__) yang dapat menyelesaikan perintah berikut.
-
-1. __Ada berapa jenis profesi yang ada dalam dataset tersebut? Sebutkan!__
-    
-    Output yang diharapkan:
-    
-    ```bash
-    21
-
-    ['technician', 'other', 'writer', 'executive', 'administrator', 'student', 'lawyer', 'educator', 'scientist', 'entertainment', 'programmer', 'librarian', 'homemaker', 'artist', 'engineer', 'marketing', 'none', 'healthcare', 'retired', 'salesman', 'doctor']
-    ```
-
-2. __Buatlah sebuah dataframe yang menunjukkan data usia maksimal, minimal & rata-ratanya, kemudian dikelompokkan berdasarkan profesi & gender!__
-
-    Output yang diharapkan:
-
-    <img src='./soal2b.png' width='40%' height='40%'>
-
-3. __Buatlah sebuah dataframe yang menunjukkan persentase pria & wanita tiap profesi!__
-
-    Output yang diharapkan:
-
-    <img src='./soal2c.png' width='40%' height='40%'>
-
-✅ *Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Daftar_Profesi__, kemudian lampirkan __url link repo Github__ Anda via email ke _lintang@purwadhika.com!_*
-
-#
-
-### **Soal 3 - 🏋‍♂ SEA Games 2019**
-
-![seagames](./seagames.png)
-
-Indonesia mengakhiri SEA Games 2019 di posisi ke-empat. Total, atlet-atlet Tanah Air sukses mengumpulkan 267 medali, dengan rincian 72 emas, 84 perak, dan 111 perunggu selama perhelatan ajang multi-event olahraga se-Asia Tenggara tersebut, sejak 30 November-11 Desember 2019. Panitia SEA Games Filipina 2019 mempublikasikan daftar peserta & perolehan medali di situs resmi: [www2.2019seagames.com](https://www2.2019seagames.com/).
-
-- [Data peserta & perolehan medali SEA Games Malaysia 2017](https://www2.2019seagames.com/countries/)
-- [Data peserta & perolehan medali SEA Games Filipina 2019](https://www2.2019seagames.com/medals/)
-
-Gunakanlah teknik _web scraping_ pada situs di atas untuk mendapatkan data lengkap perolehan medali SEA Games 2017 & 2019. Kemudian buatlah sebuah file python (__.py__) atau notebook (__.ipynb__) yang dapat memvisualisasikan data __total raihan medali emas__ beserta __persentase raihan medali emas__ tiap Negara pada SEA Games 2017 & 2019. Contoh output yang diharapkan:
-
-- Total raihan medali emas SEA Games 2017 & 2019. Berikan marker khusus pada Negara dengan raihan medali emas terbanyak.
-
-    ![](./seagames_line.png)
-
-- Persentase raihan medali emas SEA Games 2017 & 2019. Tampilkan nilai persentase pada diagram lingkaran.
-
-    ![](./seagames_pie.png)
-
-✅ *Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __SEA_Games__, kemudian lampirkan __url link repo Github__ Anda via email ke _lintang@purwadhika.com!_*
-
-#
-
-### *__#HappyCoding__* :relaxed:
-
-#### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
-
-[Facebook](https://www.facebook.com/lintangbagus) | 
-[Twitter](https://twitter.com/Lintang_Wisesa) |
-[Google+](https://plus.google.com/u/0/+LintangWisesa1) |
-[Youtube](https://www.youtube.com/user/lintangbagus) | 
-:octocat: [GitHub](https://github.com/LintangWisesa) |
-[Hackster](https://www.hackster.io/lintangwisesa)
